@@ -31,11 +31,11 @@ export const tabs = [
                 label: 'Rosters',
                 dest: '/rosters',
             },
-            {
-                icon: 'groups',
-                label: 'Managers',
-                dest: '/managers',
-            },
+            // {
+            //     icon: 'groups',
+            //     label: 'Managers',
+            //     dest: '/managers',
+            // },
             {
                 icon: 'local_fire_department',
                 label: 'Rivalry',
@@ -73,9 +73,9 @@ export const tabs = [
             },
         ]
     },
-    {
-        icon: 'lightbulb',
-        label: 'Resources',
-        dest: '/resources',
-    },
+    // {
+    //     icon: 'lightbulb',
+    //     label: 'Resources',
+    //     dest: '/resources',
+    // },
 ];

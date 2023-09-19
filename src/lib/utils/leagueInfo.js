@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>We're here to beat Jaysonnn</p>
+  <p>We're here to beat Jayson</p>
 `;
 
 /*   STEP 3   */
